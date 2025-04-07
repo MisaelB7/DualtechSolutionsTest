@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDualtechServices", "ApiDualtechServices\ApiDualtechServices.csproj", "{D245BAF3-6C65-4E96-94CB-C99AAD4A7AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D245BAF3-6C65-4E96-94CB-C99AAD4A7AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D245BAF3-6C65-4E96-94CB-C99AAD4A7AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D245BAF3-6C65-4E96-94CB-C99AAD4A7AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D245BAF3-6C65-4E96-94CB-C99AAD4A7AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F8DF54-6D32-4137-9E81-8715C18CE76F}
+	EndGlobalSection
+EndGlobal
