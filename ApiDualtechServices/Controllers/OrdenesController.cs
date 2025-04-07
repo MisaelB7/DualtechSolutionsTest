@@ -73,7 +73,7 @@ namespace ApiDualtechServices.Controllers
                 OrdenACrear.Impuesto = OrdenACrear.DetalleOrdens.Sum(x => x.Impuesto);
                 OrdenACrear.Subtotal = OrdenACrear.DetalleOrdens.Sum(x => x.Subtotal);
                 OrdenACrear.Total = OrdenACrear.DetalleOrdens.Sum(x => x.Total);
-                
+
 
                 context.Ordens.Add(OrdenACrear);
                 context.SaveChanges();
@@ -92,3 +92,4 @@ namespace ApiDualtechServices.Controllers
             }
         }
     }
+}
